@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<CheckBoxPreference android:key="first"  android:title=" ilk Secenek"
+        android:summary="firts option" ></CheckBoxPreference>
+<CheckBoxPreference android:key="second" android:title="ikinci seçenek"
+        android:summary=" second option"></CheckBoxPreference>
+    <EditTextPreference  android:key="butonName" android:title="BUTON ADI NE OLSUN" android:summary=" button name "
+></EditTextPreference>
+
+</PreferenceScreen>
